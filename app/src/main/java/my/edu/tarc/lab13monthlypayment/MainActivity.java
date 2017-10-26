@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         loan=(Double.parseDouble(editTextVehiclePrice.getText().toString())-Double.parseDouble(editTextDownpayment.getText().toString()))+totalinterest;
         monthlypayment=loan/Double.parseDouble(editTextRepaymentmonth.getText().toString());
 
-        
+
         if(monthlypayment>)
 
 
