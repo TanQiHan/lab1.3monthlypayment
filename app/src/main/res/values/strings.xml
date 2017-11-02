@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">lab1.3 monthly payment</string>
+    <string name="vehicle_price">vehicle price</string>
+    <string name="downpayment">downpayment</string>
+    <string name="repayment">repayment</string>
+    <string name="interest_rate">interest rate</string>
+    <string name="salary">salary</string>
+    <string name="calculate">calculate</string>
+    <string name="reset">reset</string>
+    <string name="monthly_payment">monthly_payment</string>
+    <string name="status">status</string>
+    <string name="close">close</string>
+
 </resources>
